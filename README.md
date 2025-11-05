@@ -1,12 +1,12 @@
 # Sex-specific body mass ageing trajectories in adult Asian elephants
 
-Lucas D. Lalande^1,2,3,\*^, Virpi Lummaa^1,\*^, Htoo H. Aung^4^, Win Htut^4^, U. Kyaw Nyein^4^, Vérane Berger^1,\*^, Michael Briga^1,5,\*^
+Lucas D. Lalande<sup>1,2,3,\*</sup>, Virpi Lummaa<sup>1,\*</sup>, Htoo H. Aung<sup>4</sup>, Win Htut<sup>4</sup>, U. Kyaw Nyein<sup>4</sup>, Vérane Berger<sup>1,\*</sup>, Michael Briga<sup>1,5,\*</sup>
 
-^1^ Department of Biology, University of Turku, Turku, Finland\
-^2^ Université Bourgogne Franche- Comté, Dijon, France\
-^3^ Université de Lyon, Université ClaudeBernard Lyon 1, Laboratoire de Biométrie et Biologie Evolutive, UMR 5558, Villeurbanne CEDEX, France\
-^4^ Myanma Timber Enterprise, Ministry of Natural Resources and Environmental Conservation, West Gyogone Forest Compound, Yangon, Myanmar\
-^5^ Infectious Disease Epidemiology Group, Max Planck Institute for Infection Biology, Berlin, Germany
+<sup>1</sup> Department of Biology, University of Turku, Turku, Finland\
+<sup>2</sup> Université Bourgogne Franche- Comté, Dijon, France\
+<sup>3</sup> Université de Lyon, Université ClaudeBernard Lyon 1, Laboratoire de Biométrie et Biologie Evolutive, UMR 5558, Villeurbanne CEDEX, France\
+<sup>4</sup> Myanma Timber Enterprise, Ministry of Natural Resources and Environmental Conservation, West Gyogone Forest Compound, Yangon, Myanmar\
+<sup>5</sup> Infectious Disease Epidemiology Group, Max Planck Institute for Infection Biology, Berlin, Germany
 
 Sex-specific body mass ageing trajectories in adult Asian elephants\
 *Journal of Evolutionary Biology*, **2022**\
