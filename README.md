@@ -83,22 +83,28 @@ Below you will find a description of all scripts available and used for this pap
 
 Necessitate `R (>= 4.1.1)` and `RStudio`
 
-## Citation
-
-To cite the article and the dataset, please use:
-
-Lalande, Lucas D., Virpi Lummaa, Htoo H. Aung, Win Htut, U. Kyaw Nyein,Vérane Berger, and Michael Briga. 2022. “Sex-Specific Body Mass Ageing Trajectories in Adult Asian Elephants.” *Journal of Evolutionary Biology* 35 (5): 752–62. <https://doi.org/10.1111/jeb.14008>.
-
-Lalande, Lucas, Virpi Lummaa, Htoo Htoo Aung, Win Htut, U Kyaw Nyein,Vérane Berger, and Michael Briga. 2022. “Sex-Specific Body Mass Ageing Trajectories in Adult Asian Elephants.” Dryad. <https://doi.org/10.5061/DRYAD.5DV41NS59>.
-
 ## License
 
 This repository contains the R code used to reproduce analyses from the article:
 
 > Lalande et al. **(2022)**. Sex-Specific Body Mass Ageing Trajectories in Adult Asian Elephants. *Journal of Evolutionary Biology.*
 
--   Code and scripts are released under the **CC BY 4.0** license.
+-   Code and scripts are released under the **MIT** license.
 -   The data are available on Dryad (DOI: [10.5061/dryad.5dv41ns59](https://doi.org/10.5061/dryad.5dv41ns59)) and are governed by their own license.
+
+## Citation
+
+To cite the article, please use:
+
+> Lalande, Lucas D., Virpi Lummaa, Htoo H. Aung, Win Htut, U. Kyaw Nyein,Vérane Berger, and Michael Briga. **(2022)**. Sex-Specific Body Mass Ageing Trajectories in Adult Asian Elephants. *Journal of Evolutionary Biology* 35 (5): 752–62. <https://doi.org/10.1111/jeb.14008>.
+
+To cite the dataset, please use:
+
+> Lalande, Lucas, Virpi Lummaa, Htoo Htoo Aung, Win Htut, U Kyaw Nyein,Vérane Berger, and Michael Briga. **(2022)**. Sex-Specific Body Mass Ageing Trajectories in Adult Asian Elephants. *Dryad*. <https://doi.org/10.5061/DRYAD.5DV41NS59>.
+
+To cite codes and scripts, please use:
+
+> Lalande, Lucas, Virpi Lummaa, Htoo Htoo Aung, Win Htut, U Kyaw Nyein,Vérane Berger, and Michael Briga. **(2022)**. Sex-Specific Body Mass Ageing Trajectories in Adult Asian Elephants. *Zenodo*. <https://doi.org/10.5281/zenodo.6460236>.
 
 ## Contact
 
