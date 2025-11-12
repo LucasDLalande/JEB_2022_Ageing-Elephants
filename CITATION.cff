@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the following work:"
+message: "If you use this work, please cite the following article, dataset, and code:"
 title: "Code and data accompanying: Sex-specific body mass ageing trajectories in adult Asian elephants"
 authors:
   - family-names: Lalande
@@ -20,41 +20,43 @@ authors:
   - family-names: Briga
     given-names: Michael
     orcid: 0000-0003-3160-0407
+
+# Informations sur le code GitHub + Zenodo
 repository-code: https://github.com/LucasDLalande/JEB_2022_Ageing-Elephants
 url: https://doi.org/10.5281/zenodo.6460236
 doi: 10.5281/zenodo.6460236
-version: v1
+version: v1.0.0
 date-released: 2022-04-14
+license: MIT
 keywords:
   - R code
   - reproducible research
   - evolutionary biology
   - ageing
   - asian elephants
-license: MIT
-  
+
 references:
   - type: article
-    title: Sex-specific body mass ageing trajectories in adult Asian elephants
+    title: "Article: Sex-specific body mass ageing trajectories in adult Asian elephants"
     authors:
-    - family-names: Lalande
-      given-names: Lucas D.
-      orcid: 0000-0001-9319-8033
-    - family-names: Lummaa
-      given-names: Virpi
-      orcid: 0000-0002-2128-7587
-    - family-names: Aung
-      given-names: Htoo Htoo
-    - family-names: Htut
-      given-names: Win
-    - family-names: Nyein
-      given-names: U Kyaw
-    - family-names: Berger
-      given-names: Vérane
-      orcid: 0000-0002-2153-0719
-    - family-names: Briga
-      given-names: Michael
-      orcid: 0000-0003-3160-0407
+      - family-names: Lalande
+        given-names: Lucas D.
+        orcid: 0000-0001-9319-8033
+      - family-names: Lummaa
+        given-names: Virpi
+        orcid: 0000-0002-2128-7587
+      - family-names: Aung
+        given-names: Htoo Htoo
+      - family-names: Htut
+        given-names: Win
+      - family-names: Nyein
+        given-names: U Kyaw
+      - family-names: Berger
+        given-names: Vérane
+        orcid: 0000-0002-2153-0719
+      - family-names: Briga
+        given-names: Michael
+        orcid: 0000-0003-3160-0407
     journal: Journal of Evolutionary Biology
     year: 2022
     volume: 35
@@ -62,55 +64,58 @@ references:
     start: 752
     end: 762
     doi: 10.1111/jeb.14008
-    
+    url: https://doi.org/10.1111/jeb.14008
+
   - type: dataset
-    title: "Data to: Sex-specific body mass ageing trajectories in adult Asian elephants"
+    title: "Dataset (Dryad): Data to 'Sex-specific body mass ageing trajectories in adult Asian elephants'"
     authors:
-    - family-names: Lalande
-      given-names: Lucas D.
-      orcid: 0000-0001-9319-8033
-    - family-names: Lummaa
-      given-names: Virpi
-      orcid: 0000-0002-2128-7587
-    - family-names: Aung
-      given-names: Htoo Htoo
-    - family-names: Htut
-      given-names: Win
-    - family-names: Nyein
-      given-names: U Kyaw
-    - family-names: Berger
-      given-names: Vérane
-      orcid: 0000-0002-2153-0719
-    - family-names: Briga
-      given-names: Michael
-      orcid: 0000-0003-3160-0407
+      - family-names: Lalande
+        given-names: Lucas D.
+        orcid: 0000-0001-9319-8033
+      - family-names: Lummaa
+        given-names: Virpi
+        orcid: 0000-0002-2128-7587
+      - family-names: Aung
+        given-names: Htoo Htoo
+      - family-names: Htut
+        given-names: Win
+      - family-names: Nyein
+        given-names: U Kyaw
+      - family-names: Berger
+        given-names: Vérane
+        orcid: 0000-0002-2153-0719
+      - family-names: Briga
+        given-names: Michael
+        orcid: 0000-0003-3160-0407
     repository: Dryad
     year: 2022
-    doi: 10.5061/DRYAD.5DV41NS59
-    
+    doi: 10.5061/dryad.5dv41ns59
+    url: https://doi.org/10.5061/dryad.5dv41ns59
+
   - type: software
-    title: "Code to: Sex-specific body mass ageing trajectories in adult Asian elephants"
+    title: "Code (Zenodo): Code to 'Sex-specific body mass ageing trajectories in adult Asian elephants'"
     authors:
-    - family-names: Lalande
-      given-names: Lucas D.
-      orcid: 0000-0001-9319-8033
-    - family-names: Lummaa
-      given-names: Virpi
-      orcid: 0000-0002-2128-7587
-    - family-names: Aung
-      given-names: Htoo Htoo
-    - family-names: Htut
-      given-names: Win
-    - family-names: Nyein
-      given-names: U Kyaw
-    - family-names: Berger
-      given-names: Vérane
-      orcid: 0000-0002-2153-0719
-    - family-names: Briga
-      given-names: Michael
-      orcid: 0000-0003-3160-0407
-    year : 2022
-    version: v1
+      - family-names: Lalande
+        given-names: Lucas D.
+        orcid: 0000-0001-9319-8033
+      - family-names: Lummaa
+        given-names: Virpi
+        orcid: 0000-0002-2128-7587
+      - family-names: Aung
+        given-names: Htoo Htoo
+      - family-names: Htut
+        given-names: Win
+      - family-names: Nyein
+        given-names: U Kyaw
+      - family-names: Berger
+        given-names: Vérane
+        orcid: 0000-0002-2153-0719
+      - family-names: Briga
+        given-names: Michael
+        orcid: 0000-0003-3160-0407
+    year: 2022
+    version: v1.0.0
+    repository: Zenodo
     repository-code: https://github.com/LucasDLalande/JEB_2022_Ageing-Elephants
     url: https://doi.org/10.5281/zenodo.6460236
     doi: 10.5281/zenodo.6460236
